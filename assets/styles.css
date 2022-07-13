@@ -49,6 +49,7 @@ header{
 
 .nav__items li a{
     text-decoration: none;
+    font-family: raleway;
 }
 
 /* Sobre nosotros */
@@ -63,10 +64,13 @@ header{
 .sobrenosotros__titulo{
     font-family: raleway;
     font-size: 4.2rem;
+    margin: 0 auto;
 }
 .sobrenosotros__texto{
     font-family: raleway;
     font-size: 1.8rem;
+    margin: 10px 1px;
+    text-align: left;
 }
 .sobrenosotros__imagenes{
     width: 100%;
